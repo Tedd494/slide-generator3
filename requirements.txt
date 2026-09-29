@@ -1,1 +1,7 @@
 google-genai
+streamlit
+openai
+google-generativeai
+requests
+Pillow
+python-pptx
